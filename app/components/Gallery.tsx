@@ -76,6 +76,17 @@ const Gallery = () => {
             ></iframe>
             <span className="text-center font-bold mt-2 w-36 rounded-full mr-4 border-4 border-blue-500 text-white">Lore Video</span>
           </div>
+          <div className="flex flex-col ">
+            <iframe
+              className="rounded-2xl"
+              width="400"
+              height="250"
+              src="https://www.youtube.com/embed/QBV2uYi5On0?si=6ULHuvPmncQhkPj0" 
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            ></iframe>
+            <span className="text-center font-bold mt-2 w-36 rounded-full mr-4 border-4 border-blue-500 text-white">Lore Video</span>
+          </div>
         </div>
       </div>
         <div className="flex justify-center items-center my-8">

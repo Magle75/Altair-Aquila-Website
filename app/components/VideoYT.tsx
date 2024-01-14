@@ -51,11 +51,12 @@ const VideoYT = () => {
             className="rounded-lg"
             width="400"
             height="250"
-            src="https://www.youtube.com/embed/WT5Ht_FnyA0?si=py596LBIsrwc00__"
+            src="https://www.youtube.com/embed/QBV2uYi5On0?si=6ULHuvPmncQhkPj0" 
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           ></iframe>
         </div>
+        
       </div>
     </motion.div>
   );
